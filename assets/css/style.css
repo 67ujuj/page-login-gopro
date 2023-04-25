@@ -20,9 +20,18 @@ p{
     justify-content: center;
     color: white;
     margin-top: 36px;
-    margin-right: 3px;
+    margin-right: 14px;
     font-family: Mazzard H;
 }
-span p{
-    color: yellow;
+.texte2{
+    font-family: Proxima Nova;
+    font-weight: 800;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.icone{
+    width: 25px;
 }
